@@ -1,6 +1,17 @@
 
 Instrucciones:
 
+-Clonar el repositorio
+-Renobrar archivo .env.example a .env y crear la base de datos "laravel"
+-ejecutar composer update
+-php artisan key:generate
+-php artisan migrate
+-php artisan db:seed
+
+usuario: admin@admin.com	
+password: admin
+
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
