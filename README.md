@@ -22,17 +22,7 @@ password: admin
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-Instrucciones:
 
--Clonar el repositorio
--Renobrar archivo .env.example a .env y crear la base de datos "laravel"
--ejecutar composer update
--php artisan key:generate
--php artisan migrate
--php artisan db:seed
-
-usuario: admin@admin.com	
-password: admin
 
 
 ## About Laravel
